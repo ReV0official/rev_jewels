@@ -17,31 +17,31 @@ AddEventHandler('rev_jewels:cutdia', function()
     
     if item > 0 then
         xPlayer.removeInventoryItem('uncut_diamond', 1)
-		if luck >= 0 and luck <= 10 then
+		if luck >= 0 and luck <= 49 then
 			xPlayer.addInventoryItem("q1diamond", amounttogive)
 		end
-		if luck >= 11 and luck <= 49 then
+		if luck >= 50 and luck <= 99 then
 			xPlayer.addInventoryItem("q2diamond", amounttogive)
 		end
-		if luck >= 50 and luck <= 99 then
+		if luck >= 100 and luck <= 199 then
 			xPlayer.addInventoryItem("q3diamond", amounttogive)
 		end
-		if luck >= 100 and luck <= 199 then
+		if luck >= 200 and luck <= 279 then
 			xPlayer.addInventoryItem("q4diamond", amounttogive)
 		end
-		if luck >= 200 and luck <= 299 then
+		if luck >= 280 and luck <= 339 then
 			xPlayer.addInventoryItem("q5diamond", amounttogive)
 		end
-		if luck >= 300 and luck <= 349 then
+		if luck >= 340 and luck <= 379 then
 			xPlayer.addInventoryItem("q6diamond", amounttogive)
 		end
-		if luck >= 350 and luck <= 399 then
+		if luck >= 380 and luck <= 429then
 			xPlayer.addInventoryItem("q7diamond", amounttogive)
 		end
-		if luck >= 400 and luck <= 449 then
+		if luck >= 430 and luck <= 469then
 			xPlayer.addInventoryItem("q8diamond", amounttogive)
 		end
-		if luck >= 450 and luck <= 497 then
+		if luck >= 470 and luck <= 497 then
 			xPlayer.addInventoryItem("q9diamond", amounttogive)
 		end
 		if luck >=498 and luck <= 500 then
@@ -64,31 +64,31 @@ AddEventHandler('rev_jewels:cutrub', function()
     
     if item > 0 then
         xPlayer.removeInventoryItem('uncut_rubbies', 1)
-		if luck >= 0 and luck <= 10 then
+		if luck >= 0 and luck <= 49 then
 			xPlayer.addInventoryItem("q1ruby", amounttogive)
 		end
-		if luck >= 11 and luck <= 49 then
+		if luck >= 50 and luck <= 99 then
 			xPlayer.addInventoryItem("q2ruby", amounttogive)
 		end
-		if luck >= 50 and luck <= 99 then
+		if luck >= 100 and luck <= 199 then
 			xPlayer.addInventoryItem("q3ruby", amounttogive)
 		end
-		if luck >= 100 and luck <= 199 then
+		if luck >= 200 and luck <= 279 then
 			xPlayer.addInventoryItem("q4ruby", amounttogive)
 		end
-		if luck >= 200 and luck <= 299 then
+		if luck >= 280 and luck <= 339 then
 			xPlayer.addInventoryItem("q5ruby", amounttogive)
 		end
-		if luck >= 300 and luck <= 349 then
+		if luck >= 340 and luck <= 379 then
 			xPlayer.addInventoryItem("q6ruby", amounttogive)
 		end
-		if luck >= 350 and luck <= 399 then
+		if luck >= 380 and luck <= 429then
 			xPlayer.addInventoryItem("q7ruby", amounttogive)
 		end
-		if luck >= 400 and luck <= 449 then
+		if luck >= 430 and luck <= 469then
 			xPlayer.addInventoryItem("q8ruby", amounttogive)
 		end
-		if luck >= 450 and luck <= 497 then
+		if luck >= 470 and luck <= 497 then
 			xPlayer.addInventoryItem("q9ruby", amounttogive)
 		end
 		if luck >=498 and luck <= 500 then
@@ -111,31 +111,31 @@ AddEventHandler('rev_jewels:aprgoldneck', function()
     
     if item > 0 then
         xPlayer.removeInventoryItem('goldnecklace', 1)
-		if luck >= 0 and luck <= 10 then
+		if luck >= 0 and luck <= 49 then
 			xPlayer.addInventoryItem("q1goldnecklace", amounttogive)
 		end
-		if luck >= 11 and luck <= 49 then
+		if luck >= 50 and luck <= 99 then
 			xPlayer.addInventoryItem("q2goldnecklace", amounttogive)
 		end
-		if luck >= 50 and luck <= 99 then
+		if luck >= 100 and luck <= 199 then
 			xPlayer.addInventoryItem("q3goldnecklace", amounttogive)
 		end
-		if luck >= 100 and luck <= 199 then
+		if luck >= 200 and luck <= 279 then
 			xPlayer.addInventoryItem("q4goldnecklace", amounttogive)
 		end
-		if luck >= 200 and luck <= 299 then
+		if luck >= 280 and luck <= 339 then
 			xPlayer.addInventoryItem("q5goldnecklace", amounttogive)
 		end
-		if luck >= 300 and luck <= 349 then
+		if luck >= 340 and luck <= 379 then
 			xPlayer.addInventoryItem("q6goldnecklace", amounttogive)
 		end
-		if luck >= 350 and luck <= 399 then
+		if luck >= 380 and luck <= 429then
 			xPlayer.addInventoryItem("q7goldnecklace", amounttogive)
 		end
-		if luck >= 400 and luck <= 449 then
+		if luck >= 430 and luck <= 469then
 			xPlayer.addInventoryItem("q8goldnecklace", amounttogive)
 		end
-		if luck >= 450 and luck <= 497 then
+		if luck >= 470 and luck <= 497 then
 			xPlayer.addInventoryItem("q9goldnecklace", amounttogive)
 		end
 		if luck >=498 and luck <= 500 then
@@ -158,31 +158,31 @@ AddEventHandler('rev_jewels:aprneck', function()
     
     if item > 0 then
         xPlayer.removeInventoryItem('necklace', 1)
-		if luck >= 0 and luck <= 10 then
+		if luck >= 0 and luck <= 49 then
 			xPlayer.addInventoryItem("q1necklace", amounttogive)
 		end
-		if luck >= 11 and luck <= 49 then
+		if luck >= 50 and luck <= 99 then
 			xPlayer.addInventoryItem("q2necklace", amounttogive)
 		end
-		if luck >= 50 and luck <= 99 then
+		if luck >= 100 and luck <= 199 then
 			xPlayer.addInventoryItem("q3necklace", amounttogive)
 		end
-		if luck >= 100 and luck <= 199 then
+		if luck >= 200 and luck <= 279 then
 			xPlayer.addInventoryItem("q4necklace", amounttogive)
 		end
-		if luck >= 200 and luck <= 299 then
+		if luck >= 280 and luck <= 339 then
 			xPlayer.addInventoryItem("q5necklace", amounttogive)
 		end
-		if luck >= 300 and luck <= 349 then
+		if luck >= 340 and luck <= 379 then
 			xPlayer.addInventoryItem("q6necklace", amounttogive)
 		end
-		if luck >= 350 and luck <= 399 then
+		if luck >= 380 and luck <= 429then
 			xPlayer.addInventoryItem("q7necklace", amounttogive)
 		end
-		if luck >= 400 and luck <= 449 then
+		if luck >= 430 and luck <= 469then
 			xPlayer.addInventoryItem("q8necklace", amounttogive)
 		end
-		if luck >= 450 and luck <= 497 then
+		if luck >= 470 and luck <= 497 then
 			xPlayer.addInventoryItem("q9necklace", amounttogive)
 		end
 		if luck >=498 and luck <= 500 then
@@ -205,31 +205,31 @@ AddEventHandler('rev_jewels:aprring', function()
     
     if item > 0 then
         xPlayer.removeInventoryItem('ring', 1)
-		if luck >= 0 and luck <= 10 then
+		if luck >= 0 and luck <= 49 then
 			xPlayer.addInventoryItem("q1ring", amounttogive)
 		end
-		if luck >= 11 and luck <= 49 then
+		if luck >= 50 and luck <= 99 then
 			xPlayer.addInventoryItem("q2ring", amounttogive)
 		end
-		if luck >= 50 and luck <= 99 then
+		if luck >= 100 and luck <= 199 then
 			xPlayer.addInventoryItem("q3ring", amounttogive)
 		end
-		if luck >= 100 and luck <= 199 then
+		if luck >= 200 and luck <= 279 then
 			xPlayer.addInventoryItem("q4ring", amounttogive)
 		end
-		if luck >= 200 and luck <= 299 then
+		if luck >= 280 and luck <= 339 then
 			xPlayer.addInventoryItem("q5ring", amounttogive)
 		end
-		if luck >= 300 and luck <= 349 then
+		if luck >= 340 and luck <= 379 then
 			xPlayer.addInventoryItem("q6ring", amounttogive)
 		end
-		if luck >= 350 and luck <= 399 then
+		if luck >= 380 and luck <= 429then
 			xPlayer.addInventoryItem("q7ring", amounttogive)
 		end
-		if luck >= 400 and luck <= 449 then
+		if luck >= 430 and luck <= 469then
 			xPlayer.addInventoryItem("q8ring", amounttogive)
 		end
-		if luck >= 450 and luck <= 497 then
+		if luck >= 470 and luck <= 497 then
 			xPlayer.addInventoryItem("q9ring", amounttogive)
 		end
 		if luck >=498 and luck <= 500 then
@@ -252,31 +252,31 @@ AddEventHandler('rev_jewels:aprwatch', function()
     
     if item > 0 then
         xPlayer.removeInventoryItem('goldwatch', 1)
-		if luck >= 0 and luck <= 10 then
+		if luck >= 0 and luck <= 49 then
 			xPlayer.addInventoryItem("q1goldwatch", amounttogive)
 		end
-		if luck >= 11 and luck <= 49 then
+		if luck >= 50 and luck <= 99 then
 			xPlayer.addInventoryItem("q2goldwatch", amounttogive)
 		end
-		if luck >= 50 and luck <= 99 then
+		if luck >= 100 and luck <= 199 then
 			xPlayer.addInventoryItem("q3goldwatch", amounttogive)
 		end
-		if luck >= 100 and luck <= 199 then
+		if luck >= 200 and luck <= 279 then
 			xPlayer.addInventoryItem("q4goldwatch", amounttogive)
 		end
-		if luck >= 200 and luck <= 299 then
+		if luck >= 280 and luck <= 339 then
 			xPlayer.addInventoryItem("q5goldwatch", amounttogive)
 		end
-		if luck >= 300 and luck <= 349 then
+		if luck >= 340 and luck <= 379 then
 			xPlayer.addInventoryItem("q6goldwatch", amounttogive)
 		end
-		if luck >= 350 and luck <= 399 then
+		if luck >= 380 and luck <= 429then
 			xPlayer.addInventoryItem("q7goldwatch", amounttogive)
 		end
-		if luck >= 400 and luck <= 449 then
+		if luck >= 430 and luck <= 469then
 			xPlayer.addInventoryItem("q8goldwatch", amounttogive)
 		end
-		if luck >= 450 and luck <= 497 then
+		if luck >= 470 and luck <= 497 then
 			xPlayer.addInventoryItem("q9goldwatch", amounttogive)
 		end
 		if luck >=498 and luck <= 500 then

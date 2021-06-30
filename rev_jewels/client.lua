@@ -340,25 +340,25 @@ function OpenNeckMenu()
         },
         function(data, menu)
             if data.current.value == 'q1n' then
-				TriggerServerEvent('rev_jewels:sellgneck1')
+				TriggerServerEvent('rev_jewels:sellneck1')
             elseif data.current.value == 'q2n' then
-				TriggerServerEvent('rev_jewels:sellgneck2')
+				TriggerServerEvent('rev_jewels:sellneck2')
             elseif data.current.value == 'q3n' then
-				TriggerServerEvent('rev_jewels:sellgneck3')
+				TriggerServerEvent('rev_jewels:sellneck3')
             elseif data.current.value == 'q4n' then
-				TriggerServerEvent('rev_jewels:sellgneck4')
+				TriggerServerEvent('rev_jewels:sellneck4')
             elseif data.current.value == 'q5n' then
-				TriggerServerEvent('rev_jewels:sellgneck5')
+				TriggerServerEvent('rev_jewels:sellneck5')
             elseif data.current.value == 'q6n' then
-				TriggerServerEvent('rev_jewels:sellgneck6')
+				TriggerServerEvent('rev_jewels:sellneck6')
             elseif data.current.value == 'q7n' then
-				TriggerServerEvent('rev_jewels:sellgneck7')
+				TriggerServerEvent('rev_jewels:sellneck7')
             elseif data.current.value == 'q8n' then
-				TriggerServerEvent('rev_jewels:sellgneck8')
+				TriggerServerEvent('rev_jewels:sellneck8')
             elseif data.current.value == 'q9n' then
-				TriggerServerEvent('rev_jewels:sellgneck9')
+				TriggerServerEvent('rev_jewels:sellneck9')
             elseif data.current.value == 'q10n' then
-				TriggerServerEvent('rev_jewels:sellgneck10')
+				TriggerServerEvent('rev_jewels:sellneck10')
             end
         end,
         function(data, menu)
